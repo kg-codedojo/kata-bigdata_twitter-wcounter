@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Thu Jul 19 06:09:14 +0000 2012</created_at>
+  <id>225834665678872578</id>
+  <text>http://t.co/C0sj854r</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <possibly_sensitive>false</possibly_sensitive>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Jul 18 20:48:08 +0000 2012</created_at>
+  <id>225693457677684738</id>
+  <text>@d_birukov &#1043;&#1076;&#1077; &#1025;&#1046;?</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>225654616518434816</in_reply_to_status_id>
+  <in_reply_to_user_id>404021197</in_reply_to_user_id>
+  <in_reply_to_screen_name>d_birukov</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Jul 18 20:43:26 +0000 2012</created_at>
+  <id>225692273025875968</id>
+  <text>@SergiTereshenko @kgurnov &#1087;&#1088;&#1080; &#1089;&#1073;&#1086;&#1088;&#1082;&#1077; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1086;&#1074; &#1088;&#1091;&#1075;&#1072;&#1077;&#1090;&#1089;&#1103; &#1085;&#1072; &#1076;&#1077;&#1087;&#1077;&#1085;&#1076;&#1077;&#1085;&#1089;&#1080; Junit http://t.co/87rk7pDd</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id>560494749</in_reply_to_user_id>
+  <in_reply_to_screen_name>SergiTereshenko</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <possibly_sensitive>false</possibly_sensitive>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Jul 18 06:56:10 +0000 2012</created_at>
+  <id>225484088621019136</id>
+  <text>@kgurnov http://t.co/0K4q1j8K</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>225482873623416833</in_reply_to_status_id>
+  <in_reply_to_user_id>47163073</in_reply_to_user_id>
+  <in_reply_to_screen_name>kgurnov</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <possibly_sensitive>false</possibly_sensitive>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Jul 18 06:16:08 +0000 2012</created_at>
+  <id>225474013244301312</id>
+  <text>@kgurnov @SergiTereshenko test. hello coding followers</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id>47163073</in_reply_to_user_id>
+  <in_reply_to_screen_name>kgurnov</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Wed Jul 18 04:16:07 +0000 2012</created_at>
+  <id>225443810887475200</id>
+  <text>@Peterrhysthomas google docs (drive)?</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>225340920827084802</in_reply_to_status_id>
+  <in_reply_to_user_id>23758690</in_reply_to_user_id>
+  <in_reply_to_screen_name>Peterrhysthomas</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Jul 17 20:52:52 +0000 2012</created_at>
+  <id>225332263880114178</id>
+  <text>Is &#8216;test&#8217; and &#8216;prod&#8217; toggles enough to segregate you features going to prod? Granularity for features #featuretoggle #continuousdelivery</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Jul 17 18:25:48 +0000 2012</created_at>
+  <id>225295251571617794</id>
+  <text>@BlackMet4l maybe Haskell? It is real function style language</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>225280869714247680</in_reply_to_status_id>
+  <in_reply_to_user_id>29009721</in_reply_to_user_id>
+  <in_reply_to_screen_name>BlackMet4l</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Jul 17 15:58:38 +0000 2012</created_at>
+  <id>225258215724687360</id>
+  <text>Apologize to my management #JRebel will boost our performance. As for #rally excel would work for me as well</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Jul 16 20:05:17 +0000 2012</created_at>
+  <id>224957899775021056</id>
+  <text>And, our managers would prefer to spend money on #rally rather then on #jrebel. Hehe that off course  reduce delivery costs</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>1</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Jul 16 20:02:41 +0000 2012</created_at>
+  <id>224957244767350784</id>
+  <text>Today score two prod bugs. Thanks #jrebel. Without this awesome tool it could be zero score. Unfortunately trial period will expire soon.</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>1</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>514</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Jul 16 17:33:43 +0000 2012</created_at>
+  <id>224919757382623232</id>
+  <text>@filippgross @VRSoloviev &#1086;&#1087;&#1103;&#1090;&#1100; &#1078;&#1077; &#1089;&#1090;&#1072;&#1090;&#1080;&#1089;&#1090;&#1080;&#1082;&#1072; &#1086;&#1090;&#1082;&#1091;&#1076;&#1072; &#1074;&#1079;&#1103;&#1090;&#1072;? &#1050;&#1072;&#1082; &#1085;&#1072;&#1089;&#1095;&#1077;&#1090; &#1087;&#1086;&#1089;&#1095;&#1080;&#1090;&#1072;&#1090;&#1100; &#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1088;&#1072;&#1073;&#1086;&#1095;&#1080;&#1093; &#1084;&#1077;&#1089;&#1090; &#1089;&#1086;&#1079;&#1076;&#1072;&#1083; &#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090;</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>224902625362051072</in_reply_to_status_id>
+  <in_reply_to_user_id>221160441</in_reply_to_user_id>
+  <in_reply_to_screen_name>filippgross</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Mon Jul 16 17:30:45 +0000 2012</created_at>
+  <id>224919009794064385</id>
+  <text>@VRSoloviev &#1103; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086; &#1087;&#1086;&#1085;&#1080;&#1084;&#1072;&#1102;, &#1095;&#1090;&#1086; &#1077;&#1075;&#1086; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1083;&#1080; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1099;?</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id>224899232937689088</in_reply_to_status_id>
+  <in_reply_to_user_id>146882655</in_reply_to_user_id>
+  <in_reply_to_screen_name>VRSoloviev</in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>514</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Jul 15 15:27:04 +0000 2012</created_at>
+  <id>224525495193190401</id>
+  <text>Back to Kiev this night. Yet another farewell to my family till the next weekend</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>514</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Jul 15 15:25:49 +0000 2012</created_at>
+  <id>224525181073367040</id>
+  <text>Too hot in Odessa even near lake bank http://t.co/MrCBIHSR</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>514</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <possibly_sensitive>false</possibly_sensitive>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Jul 13 18:53:36 +0000 2012</created_at>
+  <id>223852697344937985</id>
+  <text>&#1047;&#1072;&#1073;&#1072;&#1074;&#1085;&#1086; &#1089;&#1083;&#1091;&#1096;&#1072;&#1090;&#1100; #&#1050;&#1080;&#1085;&#1095;&#1077;&#1074;&#1072; &#1087;&#1086;&#1076; &#1087;&#1086;&#1087;&#1089;&#1086;&#1074;&#1099;&#1081; &#1074;&#1080;&#1076;&#1077;&#1086; &#1088;&#1103;&#1076;</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Jul 13 16:42:32 +0000 2012</created_at>
+  <id>223819712629440512</id>
+  <text>Fixing production bug without access to production is like a sex in space suit. #IT #OFFSHORE</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>514</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Fri Jul 13 16:38:51 +0000 2012</created_at>
+  <id>223818783872135168</id>
+  <text>&#1042; &#1054;&#1076;&#1077;&#1089;&#1089;&#1091; &#1077;&#1076;&#1077;&#1090; &#1085;&#1072;&#1088;&#1086;&#1076; &#1086;&#1090;&#1076;&#1099;&#1093;&#1072;&#1090;&#1100;. #&#1055;&#1086;&#1085;&#1072;&#1077;&#1076;&#1077;&#1090; &#1090;&#1086;&#1095;&#1085;&#1077;&#1077;.</text>
+  <source>&lt;a href=&quot;http://tapbots.com/tweetbot&quot; rel=&quot;nofollow&quot;&gt;Tweetbot for iOS&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <favorited>false</favorited>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <retweet_count>0</retweet_count>
+  <retweeted>false</retweeted>
+  <user>
+    <id>260410209</id>
+    <name>Semenov Dmitry</name>
+    <screen_name>semenodm</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url>
+    <profile_image_url_https>https://si0.twimg.com/profile_images/1502129733/java-linux_normal.jpg</profile_image_url_https>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>42</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>91</friends_count>
+    <created_at>Thu Mar 03 20:53:54 +0000 2011</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>7200</utc_offset>
+    <time_zone>Kyiv</time_zone>
+    <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>515</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent></follow_request_sent>
+    <listed_count>0</listed_count>
+    <show_all_inline_media>false</show_all_inline_media>
+    <default_profile>true</default_profile>
+    <default_profile_image>false</default_profile_image>
+    <is_translator>false</is_translator>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>
